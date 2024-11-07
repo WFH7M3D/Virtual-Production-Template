@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Unreal-Template_v002/Content/StarterContent/Textures
+/Unreal-Template_v002/Content/StarterContent
+Unreal-Template_v002/Config/DefaultInput.ini
+Unreal-Template_v002/Config/DefaultInput.ini
